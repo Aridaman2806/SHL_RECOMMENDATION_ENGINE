@@ -71,8 +71,12 @@ def get_recommendations():
             if line and "|" in line:
                 row = [cell.strip() for cell in line.split("|")[1:-1] if cell.strip()]
                 if len(row) == 6:  # Ensure exactly 6 columns
-                    # Convert duration to integer
-                    duration = int(row[4].split()[0])  # Assuming duration is a single number now
+                    # Convert duration to integer, handling range (e.g., "30-45 minutes" -> 45)
+                    duration_str = row[4].replace("minutes", "").strip()
+                    if "-" in duration_str:
+                        duration = int(duration_str.split("-")[1])  # Take the maximum value
+                    else:
+                        duration = int(duration_str)
                     recommended_assessments.append({
                         "url": row[5],
                         "adaptive_support": row[2],
