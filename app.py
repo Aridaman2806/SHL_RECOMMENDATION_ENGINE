@@ -62,8 +62,8 @@ def get_recommendations():
         # Extract headers
         headers_line = lines[0]
         headers = [h.strip() for h in headers_line.split("|")[1:-1] if h.strip()]
-        if len(headers) != 6:  # Expect exactly 6 columns
-            return jsonify({"error": "Invalid table header format. Expected 6 columns"}), 500
+        if len(headers) != 6:  # Expect 6 columns: Name, Remote, Adaptive, Type, Duration, URL
+            return jsonify({"error": f"Invalid table header format. Expected 6 columns, got {len(headers)}"}), 500
 
         # Extract data rows (skip header and separator)
         recommended_assessments = []
@@ -71,19 +71,21 @@ def get_recommendations():
             if line and "|" in line:
                 row = [cell.strip() for cell in line.split("|")[1:-1] if cell.strip()]
                 if len(row) == 6:  # Ensure exactly 6 columns
-                    # Convert duration to integer, handling range (e.g., "30-45 minutes" -> 45)
+                    # Convert duration to integer, handling range (e.g., "30-45 minutes" -> 30)
                     duration_str = row[4].replace("minutes", "").strip()
                     if "-" in duration_str:
-                        duration = int(duration_str.split("-")[1])  # Take the maximum value
+                        duration = int(duration_str.split("-")[0])  # Take the minimum value
                     else:
                         duration = int(duration_str)
+                    # Extract short test type code (e.g., "K" from "K (Knowledge-based)")
+                    test_type_str = row[3].split()[0] if row[3] else "Unknown"
                     recommended_assessments.append({
-                        "url": row[5],
+                        "url": f"https://www.shl.com{row[5]}",  # Prepend https://www.shl.com/ to URL
                         "adaptive_support": row[2],
-                        "description": f"{row[0]} - {row[3]}",
+                        "description": row[0],  # Use Assessment Name as description
                         "duration": duration,
                         "remote_support": row[1],
-                        "test_type": [t.strip() for t in row[3].split(",") if t.strip()]
+                        "test_type": [test_type_str]  # Use short code as list
                     })
                 else:
                     logger.warning(f"Skipping malformed row: {row}")
@@ -91,7 +93,7 @@ def get_recommendations():
         if not recommended_assessments:
             return jsonify({"error": "No valid recommendations found"}), 404
 
-        return jsonify({"recommended_assessments": recommended_assessments}), 200
+        return jsonify({"recommended_assessments": recommended_assessments}, ensure_ascii=False, indent=2), 200
         
     except Exception as e:
         logger.error(f"Error processing request: {str(e)}")
