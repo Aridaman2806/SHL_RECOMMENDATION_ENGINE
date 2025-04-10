@@ -1,0 +1,378 @@
+name,url,remote,adaptive,test_type,description,duration
+Global Skills Development Report,/solutions/products/product-catalog/view/global-skills-development-report/,Yes,No,"A
+E
+B
+C
+D
+P","Global Skills Development Report - A
+E
+B
+C
+D
+P",0
+.NET Framework 4.5,/solutions/products/product-catalog/view/net-framework-4-5/,Yes,No,K,.NET Framework 4.5 - K,30
+.NET MVC (New),/solutions/products/product-catalog/view/net-mvc-new/,Yes,No,K,.NET MVC (New) - K,17
+.NET MVVM (New),/solutions/products/product-catalog/view/net-mvvm-new/,Yes,No,K,.NET MVVM (New) - K,5
+.NET WCF (New),/solutions/products/product-catalog/view/net-wcf-new/,Yes,No,K,.NET WCF (New) - K,11
+.NET WPF (New),/solutions/products/product-catalog/view/net-wpf-new/,Yes,No,K,.NET WPF (New) - K,9
+.NET XAML (New),/solutions/products/product-catalog/view/net-xaml-new/,Yes,No,K,.NET XAML (New) - K,5
+Accounts Payable (New),/solutions/products/product-catalog/view/accounts-payable-new/,Yes,No,K,Accounts Payable (New) - K,9
+Accounts Payable Simulation (New),/solutions/products/product-catalog/view/accounts-payable-simulation-new/,Yes,No,S,Accounts Payable Simulation (New) - S,8
+Accounts Receivable (New),/solutions/products/product-catalog/view/accounts-receivable-new/,Yes,No,K,Accounts Receivable (New) - K,13
+Accounts Receivable Simulation (New),/solutions/products/product-catalog/view/accounts-receivable-simulation-new/,Yes,No,S,Accounts Receivable Simulation (New) - S,8
+ADO.NET (New),/solutions/products/product-catalog/view/ado-net-new/,Yes,No,K,ADO.NET (New) - K,10
+BizTalk (New),/solutions/products/product-catalog/view/biztalk-new/,Yes,No,K,BizTalk (New) - K,16
+Business Communication (adaptive),/solutions/products/product-catalog/view/business-communication-adaptive/,Yes,No,K,Business Communication (adaptive) - K,24
+Business Communications,/solutions/products/product-catalog/view/business-communications/,Yes,No,K,Business Communications - K,35
+C Programming (New),/solutions/products/product-catalog/view/c-programming-new/,Yes,No,K,C Programming (New) - K,10
+C# Programming (New),/solutions/products/product-catalog/view/c-programming-new-4039/,Yes,No,K,C# Programming (New) - K,9
+C++ Programming (New),/solutions/products/product-catalog/view/c-programming-new-4122/,Yes,No,K,C++ Programming (New) - K,10
+Cardiology and Diabetes Management (New),/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/,Yes,No,K,Cardiology and Diabetes Management (New) - K,4
+Ceramic Engineering (New),/solutions/products/product-catalog/view/ceramic-engineering-new/,Yes,No,K,Ceramic Engineering (New) - K,12
+Chemical Engineering (New),/solutions/products/product-catalog/view/chemical-engineering-new/,Yes,No,K,Chemical Engineering (New) - K,13
+Cisco AppDynamics (New),/solutions/products/product-catalog/view/cisco-appdynamics-new/,Yes,No,K,Cisco AppDynamics (New) - K,9
+Civil Engineering (New),/solutions/products/product-catalog/view/civil-engineering-new/,Yes,No,K,Civil Engineering (New) - K,10
+Cloud Computing (New),/solutions/products/product-catalog/view/cloud-computing-new/,Yes,No,K,Cloud Computing (New) - K,8
+COBOL Programming (New),/solutions/products/product-catalog/view/cobol-programming-new/,Yes,No,K,COBOL Programming (New) - K,10
+Computer Science (New),/solutions/products/product-catalog/view/computer-science-new/,Yes,No,K,Computer Science (New) - K,12
+Contact Center Call Simulation (New),/solutions/products/product-catalog/view/contact-center-call-simulation-new/,Yes,No,S,Contact Center Call Simulation (New) - S,15
+Conversational Multichat Simulation,/solutions/products/product-catalog/view/conversational-multichat-simulation/,Yes,No,S,Conversational Multichat Simulation - S,11
+Core Java (Advanced Level) (New),/solutions/products/product-catalog/view/core-java-advanced-level-new/,Yes,No,K,Core Java (Advanced Level) (New) - K,13
+Core Java (Entry Level) (New),/solutions/products/product-catalog/view/core-java-entry-level-new/,Yes,No,K,Core Java (Entry Level) (New) - K,13
+Count Out The Money,/solutions/products/product-catalog/view/count-out-the-money/,Yes,No,"K
+S","Count Out The Money - K
+S",5
+CSS3 (New),/solutions/products/product-catalog/view/css3-new/,Yes,No,K,CSS3 (New) - K,8
+Culinary Skills (New),/solutions/products/product-catalog/view/culinary-skills-new/,Yes,No,K,Culinary Skills (New) - K,7
+Customer Service Phone Simulation,/solutions/products/product-catalog/view/customer-service-phone-simulation/,Yes,No,"B
+S","Customer Service Phone Simulation - B
+S",20
+Customer Service Phone Solution,/solutions/products/product-catalog/view/customer-service-phone-solution/,Yes,No,"B
+P
+S","Customer Service Phone Solution - B
+P
+S",30
+Cyber Risk (New),/solutions/products/product-catalog/view/cyber-risk-new/,Yes,No,K,Cyber Risk (New) - K,9
+Data Entry (New),/solutions/products/product-catalog/view/data-entry-new/,Yes,No,S,Data Entry (New) - S,4
+Data Entry Alphanumeric Split Screen - US,/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/,Yes,No,K,Data Entry Alphanumeric Split Screen - US - K,5
+Data Entry Numeric Split Screen - US,/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/,Yes,No,K,Data Entry Numeric Split Screen - US - K,5
+Data Entry Ten Key Split Screen,/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/,Yes,No,K,Data Entry Ten Key Split Screen - K,3
+Data Science (New),/solutions/products/product-catalog/view/data-science-new/,Yes,No,K,Data Science (New) - K,14
+Data Warehousing Concepts,/solutions/products/product-catalog/view/data-warehousing-concepts/,Yes,No,K,Data Warehousing Concepts - K,25
+Dependability and Safety Instrument (DSI),/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/,Yes,No,P,Dependability and Safety Instrument (DSI) - P,10
+Dermatology (New),/solutions/products/product-catalog/view/dermatology-new/,Yes,No,K,Dermatology (New) - K,3
+Desktop Support (New),/solutions/products/product-catalog/view/desktop-support-new/,Yes,No,K,Desktop Support (New) - K,8
+Digital Advertising (New),/solutions/products/product-catalog/view/digital-advertising-new/,Yes,No,K,Digital Advertising (New) - K,7
+Digital Readiness Development Report - IC,/solutions/products/product-catalog/view/digital-readiness-development-report/,Yes,No,P,Digital Readiness Development Report - IC - P,0
+Digital Readiness Development Report - Manager,/solutions/products/product-catalog/view/digital-readiness-development-report-manager/,Yes,No,P,Digital Readiness Development Report - Manager - P,0
+Docker (New),/solutions/products/product-catalog/view/docker-new/,Yes,No,K,Docker (New) - K,10
+Dojo (New),/solutions/products/product-catalog/view/dojo-new/,Yes,No,K,Dojo (New) - K,11
+Drupal (New),/solutions/products/product-catalog/view/drupal-new/,Yes,No,K,Drupal (New) - K,17
+DSI v1.1 Interpretation Report,/solutions/products/product-catalog/view/dsi-v1-1-interpretation-report/,Yes,No,P,DSI v1.1 Interpretation Report - P,0
+Econometrics (New),/solutions/products/product-catalog/view/econometrics-new/,Yes,No,K,Econometrics (New) - K,11
+Economics (New),/solutions/products/product-catalog/view/economics-new/,Yes,No,K,Economics (New) - K,13
+Electrical and Electronics Engineering (New),/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/,Yes,No,K,Electrical and Electronics Engineering (New) - K,14
+Electrical Engineering (New),/solutions/products/product-catalog/view/electrical-engineering-new/,Yes,No,K,Electrical Engineering (New) - K,8
+Electronics & Telecommunications Engineering (New),/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/,Yes,No,K,Electronics & Telecommunications Engineering (New) - K,15
+Electronics and Embedded Systems Engineering (New),/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/,Yes,No,K,Electronics and Embedded Systems Engineering (New) - K,18
+Electronics and Semiconductor Engineering (New),/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/,Yes,No,K,Electronics and Semiconductor Engineering (New) - K,7
+English Comprehension (New),/solutions/products/product-catalog/view/english-comprehension-new/,Yes,No,K,English Comprehension (New) - K,0
+Enterprise Java Beans (New),/solutions/products/product-catalog/view/enterprise-java-beans-new/,Yes,No,K,Enterprise Java Beans (New) - K,4
+Enterprise Leadership Report 1.0,/solutions/products/product-catalog/view/enterprise-leadership-report/,Yes,No,P,Enterprise Leadership Report 1.0 - P,0
+Enterprise Leadership Report 2.0,/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/,Yes,No,P,Enterprise Leadership Report 2.0 - P,0
+Entry Level Cashier Solution,/solutions/products/product-catalog/view/entry-level-cashier-solution/,Yes,No,"C
+P","Entry Level Cashier Solution - C
+P",19
+Entry Level Customer Serv-Retail & Contact Center,/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/,Yes,No,"P
+C","Entry Level Customer Serv-Retail & Contact Center - P
+C",19
+Entry Level Customer Service (General) Solution,/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/,Yes,No,"C
+P","Entry Level Customer Service (General) Solution - C
+P",14
+Entry Level Hotel Front Desk Solution,/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/,Yes,No,"C
+P","Entry Level Hotel Front Desk Solution - C
+P",20
+Entry Level Sales Solution,/solutions/products/product-catalog/view/entry-level-sales-solution/,Yes,No,"C
+P","Entry Level Sales Solution - C
+P",20
+Entry Level Technical Support Solution,/solutions/products/product-catalog/view/entry-level-technical-support-solution/,Yes,No,"P
+C","Entry Level Technical Support Solution - P
+C",18
+ETL Testing (New),/solutions/products/product-catalog/view/etl-testing-new/,Yes,No,K,ETL Testing (New) - K,9
+Executive Scenarios,/solutions/products/product-catalog/view/executive-scenarios/,Yes,No,B,Executive Scenarios - B,0
+Executive Scenarios Narrative Report,/solutions/products/product-catalog/view/executive-scenarios-narrative-report/,Yes,No,B,Executive Scenarios Narrative Report - B,0
+Automata Data Science (New),/solutions/products/product-catalog/view/automata-data-science-new/,Yes,No,S,Automata Data Science (New) - S,0
+Automata Data Science Pro (New),/solutions/products/product-catalog/view/automata-data-science-pro-new/,Yes,No,S,Automata Data Science Pro (New) - S,0
+Automata Front End,/solutions/products/product-catalog/view/automata-front-end/,Yes,No,S,Automata Front End - S,0
+Automata Pro (New),/solutions/products/product-catalog/view/automata-pro-new/,Yes,No,S,Automata Pro (New) - S,0
+Automata Selenium,/solutions/products/product-catalog/view/automata-selenium/,Yes,No,S,Automata Selenium - S,60
+Automation Anywhere RPA Development (New),/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/,Yes,No,K,Automation Anywhere RPA Development (New) - K,8
+Automotive Engineering (New),/solutions/products/product-catalog/view/automotive-engineering-new/,Yes,No,K,Automotive Engineering (New) - K,13
+Basic Biology (New),/solutions/products/product-catalog/view/basic-biology-new/,Yes,No,K,Basic Biology (New) - K,6
+Basic Computer Literacy (Windows 10) (New),/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/,Yes,No,"S
+K","Basic Computer Literacy (Windows 10) (New) - S
+K",30
+Basic Statistics (New),/solutions/products/product-catalog/view/basic-statistics-new/,Yes,No,K,Basic Statistics (New) - K,10
+Biochemistry (New),/solutions/products/product-catalog/view/biochemistry-new/,Yes,No,K,Biochemistry (New) - K,8
+Biotech Lab Techniques (New),/solutions/products/product-catalog/view/biotech-lab-techniques-new/,Yes,No,K,Biotech Lab Techniques (New) - K,5
+Fundamentals of Chemistry (New),/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/,Yes,No,K,Fundamentals of Chemistry (New) - K,8
+Fundamentals of Physics (New),/solutions/products/product-catalog/view/fundamentals-of-physics-new/,Yes,No,K,Fundamentals of Physics (New) - K,8
+General Diseases (New),/solutions/products/product-catalog/view/general-diseases-new/,Yes,No,K,General Diseases (New) - K,5
+Geoinformatics Engineering (New),/solutions/products/product-catalog/view/geoinformatics-engineering-new/,Yes,No,K,Geoinformatics Engineering (New) - K,10
+Geoscience Engineering (New),/solutions/products/product-catalog/view/geoscience-engineering-new/,Yes,No,K,Geoscience Engineering (New) - K,8
+GIT (New),/solutions/products/product-catalog/view/git-new/,Yes,No,K,GIT (New) - K,13
+Graduate Scenarios,/solutions/products/product-catalog/view/graduate-scenarios/,Yes,No,B,Graduate Scenarios - B,0
+Graduate Scenarios Narrative Report,/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/,Yes,No,B,Graduate Scenarios Narrative Report - B,0
+Graduate Scenarios Profile Report,/solutions/products/product-catalog/view/graduate-scenarios-profile-report/,Yes,No,B,Graduate Scenarios Profile Report - B,0
+Hibernate (New),/solutions/products/product-catalog/view/hibernate-new/,Yes,No,K,Hibernate (New) - K,5
+HIPAA (Security),/solutions/products/product-catalog/view/hipaa-security/,Yes,No,K,HIPAA (Security) - K,0
+HiPo Assessment Report 1.0,/solutions/products/product-catalog/view/hipo-assessment-report-1-0/,Yes,No,"C
+P","HiPo Assessment Report 1.0 - C
+P",0
+HiPo Assessment Report 2.0,/solutions/products/product-catalog/view/hipo-assessment-report-2-0/,Yes,No,"C
+P","HiPo Assessment Report 2.0 - C
+P",0
+HiPo Unlocking Potential Report 2.0,/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/,Yes,No,C,HiPo Unlocking Potential Report 2.0 - C,0
+Housekeeping (New),/solutions/products/product-catalog/view/housekeeping-new/,Yes,No,K,Housekeeping (New) - K,7
+HTML/CSS (New),/solutions/products/product-catalog/view/htmlcss-new/,Yes,No,K,HTML/CSS (New) - K,12
+HTML5 (New),/solutions/products/product-catalog/view/html5-new/,Yes,No,K,HTML5 (New) - K,11
+Human Resources (New),/solutions/products/product-catalog/view/human-resources-new/,Yes,No,K,Human Resources (New) - K,8
+IBM DataStage (New),/solutions/products/product-catalog/view/ibm-datastage-new/,Yes,No,K,IBM DataStage (New) - K,15
+IBM Sterling Order Management System (New),/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/,Yes,No,K,IBM Sterling Order Management System (New) - K,13
+Industrial Engineering (New),/solutions/products/product-catalog/view/industrial-engineering-new/,Yes,No,K,Industrial Engineering (New) - K,9
+Informatica (Architecture) (New),/solutions/products/product-catalog/view/informatica-architecture-new/,Yes,No,K,Informatica (Architecture) (New) - K,10
+Informatica (Developer) (New),/solutions/products/product-catalog/view/informatica-developer-new/,Yes,No,K,Informatica (Developer) (New) - K,11
+Instrumentation Engineering (New),/solutions/products/product-catalog/view/instrumentation-engineering-new/,Yes,No,K,Instrumentation Engineering (New) - K,12
+Interpersonal Communications,/solutions/products/product-catalog/view/interpersonal-communications/,Yes,No,K,Interpersonal Communications - K,0
+Interviewing and Hiring Concepts (U.S.),/solutions/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/,Yes,No,K,Interviewing and Hiring Concepts (U.S.) - K,0
+iOS Development (New),/solutions/products/product-catalog/view/ios-development-new/,Yes,No,K,iOS Development (New) - K,7
+ITIL (IT Infrastructure Library) (New),/solutions/products/product-catalog/view/itil-it-infrastructure-library-new/,Yes,No,K,ITIL (IT Infrastructure Library) (New) - K,8
+Java 2 Platform Enterprise Edition 1.4 Fundamental,/solutions/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/,Yes,No,K,Java 2 Platform Enterprise Edition 1.4 Fundamental - K,30
+Java 8 (New),/solutions/products/product-catalog/view/java-8-new/,Yes,No,K,Java 8 (New) - K,18
+Java Design Patterns (New),/solutions/products/product-catalog/view/java-design-patterns-new/,Yes,No,K,Java Design Patterns (New) - K,5
+Java Frameworks (New),/solutions/products/product-catalog/view/java-frameworks-new/,Yes,No,K,Java Frameworks (New) - K,17
+Java Platform Enterprise Edition 7 (Java EE 7),/solutions/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/,Yes,No,K,Java Platform Enterprise Edition 7 (Java EE 7) - K,30
+Java Web Services (New),/solutions/products/product-catalog/view/java-web-services-new/,Yes,No,K,Java Web Services (New) - K,8
+JavaScript (New),/solutions/products/product-catalog/view/javascript-new/,Yes,No,K,JavaScript (New) - K,9
+Executive Scenarios Profile Report,/solutions/products/product-catalog/view/executive-scenarios-profile-report/,Yes,No,B,Executive Scenarios Profile Report - B,0
+ExpressJS (New),/solutions/products/product-catalog/view/expressjs-new/,Yes,No,K,ExpressJS (New) - K,7
+Filing - Names (R1),/solutions/products/product-catalog/view/filing-names-r1/,Yes,No,K,Filing - Names (R1) - K,3
+Filing - Numbers,/solutions/products/product-catalog/view/filing-numbers/,Yes,No,K,Filing - Numbers - K,3
+Financial Accounting (New),/solutions/products/product-catalog/view/financial-accounting-new/,Yes,No,K,Financial Accounting (New) - K,9
+Financial and Banking Services (New),/solutions/products/product-catalog/view/financial-and-banking-services-new/,Yes,No,K,Financial and Banking Services (New) - K,9
+Fire Engineering (New),/solutions/products/product-catalog/view/fire-engineering-new/,Yes,No,K,Fire Engineering (New) - K,10
+Following Instructions v1 - UK (R1),/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/,Yes,No,K,Following Instructions v1 - UK (R1) - K,8
+Following Instructions v1 - US (R2),/solutions/products/product-catalog/view/following-instructions-v1-us-r2/,Yes,No,K,Following Instructions v1 - US (R2) - K,8
+Food and Beverage Services (New),/solutions/products/product-catalog/view/food-and-beverage-services-new/,Yes,No,K,Food and Beverage Services (New) - K,7
+Food Science (New),/solutions/products/product-catalog/view/food-science-new/,Yes,No,K,Food Science (New) - K,6
+Front Office Management (New),/solutions/products/product-catalog/view/front-office-management-new/,Yes,No,K,Front Office Management (New) - K,7
+Manual Testing (New),/solutions/products/product-catalog/view/manual-testing-new/,Yes,No,K,Manual Testing (New) - K,10
+Manufac. & Indust. - Mechanical & Vigilance 8.0,/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/,Yes,No,"A
+P","Manufac. & Indust. - Mechanical & Vigilance 8.0 - A
+P",49
+Manufac. & Indust. - Safety & Dependability 8.0,/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/,Yes,No,P,Manufac. & Indust. - Safety & Dependability 8.0 - P,16
+Manufacturing & Industrial - Essential Focus 8.0,/solutions/products/product-catalog/view/essential-focus-8-0/,Yes,No,P,Manufacturing & Industrial - Essential Focus 8.0 - P,16
+Manufacturing & Industrial - Mechanical Focus 8.0,/solutions/products/product-catalog/view/mechanical-focus-8-0/,Yes,No,"A
+P","Manufacturing & Industrial - Mechanical Focus 8.0 - A
+P",31
+Manufacturing & Industrial - Vigilance Focus 8.0,/solutions/products/product-catalog/view/vigilance-focus-8-0/,Yes,No,"A
+P","Manufacturing & Industrial - Vigilance Focus 8.0 - A
+P",34
+Marketing (New),/solutions/products/product-catalog/view/marketing-new/,Yes,No,K,Marketing (New) - K,9
+Maven (New),/solutions/products/product-catalog/view/maven-new/,Yes,No,K,Maven (New) - K,7
+Mechanical Engineering (New),/solutions/products/product-catalog/view/mechanical-engineering-new/,Yes,No,K,Mechanical Engineering (New) - K,7
+Mechatronics Engineering (New),/solutions/products/product-catalog/view/mechatronics-engineering-new/,Yes,No,K,Mechatronics Engineering (New) - K,19
+Medical Terminology (New),/solutions/products/product-catalog/view/medical-terminology-new/,Yes,No,K,Medical Terminology (New) - K,3
+Metallurgical Engineering (New),/solutions/products/product-catalog/view/metallurgical-engineering-new/,Yes,No,K,Metallurgical Engineering (New) - K,10
+Microsoft Windows Server 2012 Administration,/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/,Yes,No,K,Microsoft Windows Server 2012 Administration - K,35
+Microsoft Word 365 - Essentials (New),/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/,Yes,No,"K
+S","Microsoft Word 365 - Essentials (New) - K
+S",25
+Microsoft Word 365 (New),/solutions/products/product-catalog/view/microsoft-word-365-new/,Yes,No,"S
+K","Microsoft Word 365 (New) - S
+K",35
+Mineral Engineering (New),/solutions/products/product-catalog/view/mineral-engineering-new/,Yes,No,K,Mineral Engineering (New) - K,12
+Mining Engineering (New),/solutions/products/product-catalog/view/mining-engineering-new/,Yes,No,K,Mining Engineering (New) - K,16
+Mobility (New),/solutions/products/product-catalog/view/mobility-new/,Yes,No,K,Mobility (New) - K,9
+Molecular Biology (New),/solutions/products/product-catalog/view/molecular-biology-new/,Yes,No,K,Molecular Biology (New) - K,6
+MongoDB (New),/solutions/products/product-catalog/view/mongodb-new/,Yes,No,K,MongoDB (New) - K,7
+Motivation Questionnaire MQM5,/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/,Yes,No,P,Motivation Questionnaire MQM5 - P,0
+MQ Candidate Motivation Report,/solutions/products/product-catalog/view/mq-candidate-motivation-report/,Yes,No,P,MQ Candidate Motivation Report - P,0
+MQ Employee Motivation Report,/solutions/products/product-catalog/view/mq-employee-motivation-report/,Yes,No,P,MQ Employee Motivation Report - P,0
+MQ Motivation Report Pack,/solutions/products/product-catalog/view/mq-motivation-report-pack/,Yes,No,P,MQ Motivation Report Pack - P,0
+MQ Profile,/solutions/products/product-catalog/view/mq-profile/,Yes,No,P,MQ Profile - P,0
+MS Access (New),/solutions/products/product-catalog/view/ms-access-new/,Yes,No,K,MS Access (New) - K,7
+MS Excel (New),/solutions/products/product-catalog/view/ms-excel-new/,Yes,No,K,MS Excel (New) - K,6
+MS Office Basic Computer Literacy (New),/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/,Yes,No,K,MS Office Basic Computer Literacy (New) - K,7
+MS Office Basic Computer Literacy (Sim) (New),/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/,Yes,No,S,MS Office Basic Computer Literacy (Sim) (New) - S,5
+MS PowerPoint (New),/solutions/products/product-catalog/view/ms-powerpoint-new/,Yes,No,K,MS PowerPoint (New) - K,4
+MS Word (New),/solutions/products/product-catalog/view/ms-word-new/,Yes,No,K,MS Word (New) - K,4
+MuleSoft Development (New),/solutions/products/product-catalog/view/mulesoft-development-new/,Yes,No,K,MuleSoft Development (New) - K,17
+Multitasking Ability,/solutions/products/product-catalog/view/multitasking-ability/,Yes,No,"A
+K
+S","Multitasking Ability - A
+K
+S",20
+Networking and Implementation (New),/solutions/products/product-catalog/view/networking-and-implementation-new/,Yes,No,K,Networking and Implementation (New) - K,7
+Node.js (New),/solutions/products/product-catalog/view/node-js-new/,Yes,No,K,Node.js (New) - K,9
+Nursing (New),/solutions/products/product-catalog/view/nursing-new/,Yes,No,K,Nursing (New) - K,11
+Occupational Personality Questionnaire OPQ32r,/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/,Yes,No,P,Occupational Personality Questionnaire OPQ32r - P,0
+Operations Management (New),/solutions/products/product-catalog/view/operations-management-new/,Yes,No,K,Operations Management (New) - K,7
+OPQ Candidate Plus Report,/solutions/products/product-catalog/view/opq-candidate-plus-report/,Yes,No,P,OPQ Candidate Plus Report - P,0
+OPQ Candidate Report 2.0,/solutions/products/product-catalog/view/opq-candidate-report-2-0/,Yes,No,P,OPQ Candidate Report 2.0 - P,0
+OPQ Emotional Intelligence Report,/solutions/products/product-catalog/view/opq-emotional-intelligence-report/,Yes,No,P,OPQ Emotional Intelligence Report - P,0
+OPQ Leadership Report,/solutions/products/product-catalog/view/opq-leadership-report/,Yes,No,P,OPQ Leadership Report - P,0
+OPQ Manager Plus Report,/solutions/products/product-catalog/view/opq-manager-plus-report/,Yes,No,P,OPQ Manager Plus Report - P,0
+OPQ Manager Plus Report 2.0,/solutions/products/product-catalog/view/opq-manager-plus-report-2-0/,Yes,No,P,OPQ Manager Plus Report 2.0 - P,0
+OPQ Maximising your Learning Report,/solutions/products/product-catalog/view/opq-maximising-your-learning-report/,Yes,No,P,OPQ Maximising your Learning Report - P,0
+OPQ MQ Sales Report,/solutions/products/product-catalog/view/opq-mq-sales-report/,Yes,No,P,OPQ MQ Sales Report - P,0
+OPQ Premium Plus Report,/solutions/products/product-catalog/view/opq-premium-plus-report/,Yes,No,P,OPQ Premium Plus Report - P,0
+OPQ Premium Plus Report 2.0,/solutions/products/product-catalog/view/opq-premium-plus-report-2-0/,Yes,No,P,OPQ Premium Plus Report 2.0 - P,0
+OPQ Profile Report,/solutions/products/product-catalog/view/opq-profile-report/,Yes,No,P,OPQ Profile Report - P,0
+OPQ Team Impact Group Development Report,/solutions/products/product-catalog/view/opq-team-impact-group-development-report/,Yes,No,P,OPQ Team Impact Group Development Report - P,0
+OPQ Team Impact Individual Development Report,/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/,Yes,No,P,OPQ Team Impact Individual Development Report - P,0
+OPQ Team Impact Selection Report,/solutions/products/product-catalog/view/opq-team-impact-selection-report/,Yes,No,P,OPQ Team Impact Selection Report - P,0
+OPQ Team Types & Leadership Styles Profile,/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/,Yes,No,P,OPQ Team Types & Leadership Styles Profile - P,0
+OPQ Team Types and Leadership Styles Report,/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/,Yes,No,P,OPQ Team Types and Leadership Styles Report - P,0
+OPQ UCF Development Action Planner Report 1.0,/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/,Yes,No,P,OPQ UCF Development Action Planner Report 1.0 - P,0
+OPQ UCF Development Action Planner Report 2.0,/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/,Yes,No,P,OPQ UCF Development Action Planner Report 2.0 - P,0
+OPQ Universal Competency Report 1.0,/solutions/products/product-catalog/view/opq-universal-competency-report/,Yes,No,P,OPQ Universal Competency Report 1.0 - P,0
+OPQ Universal Competency Report 2.0,/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/,Yes,No,P,OPQ Universal Competency Report 2.0 - P,0
+OPQ User and Managers Report,/solutions/products/product-catalog/view/opq-user-and-managers-report/,Yes,No,P,OPQ User and Managers Report - P,0
+OPQ User Report,/solutions/products/product-catalog/view/opq-user-report/,Yes,No,"P
+S","OPQ User Report - P
+S",0
+OPQ Profile Report,/solutions/products/product-catalog/view/opq-profile-report/,Yes,No,P,OPQ Profile Report - P,0
+OPQ Team Impact Group Development Report,/solutions/products/product-catalog/view/opq-team-impact-group-development-report/,Yes,No,P,OPQ Team Impact Group Development Report - P,0
+OPQ Team Impact Individual Development Report,/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/,Yes,No,P,OPQ Team Impact Individual Development Report - P,0
+OPQ Team Impact Selection Report,/solutions/products/product-catalog/view/opq-team-impact-selection-report/,Yes,No,P,OPQ Team Impact Selection Report - P,0
+OPQ Team Types & Leadership Styles Profile,/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/,Yes,No,P,OPQ Team Types & Leadership Styles Profile - P,0
+OPQ Team Types and Leadership Styles Report,/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/,Yes,No,P,OPQ Team Types and Leadership Styles Report - P,0
+OPQ UCF Development Action Planner Report 1.0,/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/,Yes,No,P,OPQ UCF Development Action Planner Report 1.0 - P,0
+OPQ UCF Development Action Planner Report 2.0,/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/,Yes,No,P,OPQ UCF Development Action Planner Report 2.0 - P,0
+OPQ Universal Competency Report 1.0,/solutions/products/product-catalog/view/opq-universal-competency-report/,Yes,No,P,OPQ Universal Competency Report 1.0 - P,0
+OPQ Universal Competency Report 2.0,/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/,Yes,No,P,OPQ Universal Competency Report 2.0 - P,0
+OPQ User and Managers Report,/solutions/products/product-catalog/view/opq-user-and-managers-report/,Yes,No,P,OPQ User and Managers Report - P,0
+OPQ User Report,/solutions/products/product-catalog/view/opq-user-report/,Yes,No,"P
+S","OPQ User Report - P
+S",0
+Marketing (New),/solutions/products/product-catalog/view/marketing-new/,Yes,No,K,Marketing (New) - K,9
+Marketing (New),/solutions/products/product-catalog/view/marketing-new/,Yes,No,K,Marketing (New) - K,9
+Maven (New),/solutions/products/product-catalog/view/maven-new/,Yes,No,K,Maven (New) - K,7
+Mechanical Engineering (New),/solutions/products/product-catalog/view/mechanical-engineering-new/,Yes,No,K,Mechanical Engineering (New) - K,7
+Mechatronics Engineering (New),/solutions/products/product-catalog/view/mechatronics-engineering-new/,Yes,No,K,Mechatronics Engineering (New) - K,19
+Medical Terminology (New),/solutions/products/product-catalog/view/medical-terminology-new/,Yes,No,K,Medical Terminology (New) - K,3
+Metallurgical Engineering (New),/solutions/products/product-catalog/view/metallurgical-engineering-new/,Yes,No,K,Metallurgical Engineering (New) - K,10
+Manual Testing (New),/solutions/products/product-catalog/view/manual-testing-new/,Yes,No,K,Manual Testing (New) - K,10
+Manufac. & Indust. - Mechanical & Vigilance 8.0,/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/,Yes,No,"A
+P","Manufac. & Indust. - Mechanical & Vigilance 8.0 - A
+P",49
+Manufac. & Indust. - Safety & Dependability 8.0,/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/,Yes,No,P,Manufac. & Indust. - Safety & Dependability 8.0 - P,16
+Manufacturing & Industrial - Essential Focus 8.0,/solutions/products/product-catalog/view/essential-focus-8-0/,Yes,No,P,Manufacturing & Industrial - Essential Focus 8.0 - P,16
+Manufacturing & Industrial - Mechanical Focus 8.0,/solutions/products/product-catalog/view/mechanical-focus-8-0/,Yes,No,"A
+P","Manufacturing & Industrial - Mechanical Focus 8.0 - A
+P",31
+Manufacturing & Industrial - Vigilance Focus 8.0,/solutions/products/product-catalog/view/vigilance-focus-8-0/,Yes,No,"A
+P","Manufacturing & Industrial - Vigilance Focus 8.0 - A
+P",34
+Verify - G+,/solutions/products/product-catalog/view/verify-g/,Yes,No,A,Verify - G+ - A,36
+Verify - General Ability Screen,/solutions/products/product-catalog/view/verify-general-ability-screen/,Yes,No,A,Verify - General Ability Screen - A,10
+Verify - Inductive Reasoning (2014),/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/,Yes,No,A,Verify - Inductive Reasoning (2014) - A,24
+Verify - Numerical Ability,/solutions/products/product-catalog/view/verify-numerical-ability/,Yes,No,A,Verify - Numerical Ability - A,20
+Verify - Technical Checking - Next Generation,/solutions/products/product-catalog/view/verify-technical-checking-next-generation/,Yes,No,A,Verify - Technical Checking - Next Generation - A,5
+Verify - Verbal Ability - Next Generation,/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/,Yes,No,A,Verify - Verbal Ability - Next Generation - A,0
+Verify - Working with Information,/solutions/products/product-catalog/view/verify-working-with-information/,Yes,No,A,Verify - Working with Information - A,10
+Verify G+ - Ability Test Report,/solutions/products/product-catalog/view/verify-g-ability-test-report/,Yes,No,A,Verify G+ - Ability Test Report - A,0
+Verify G+ - Candidate Report,/solutions/products/product-catalog/view/verify-g-candidate-report/,Yes,No,A,Verify G+ - Candidate Report - A,0
+Verify Interactive Ability Report,/solutions/products/product-catalog/view/verify-interactive-ability-report/,Yes,No,A,Verify Interactive Ability Report - A,0
+Verify Interactive G+ Candidate Report,/solutions/products/product-catalog/view/verify-interactive-g-candidate-report/,Yes,No,A,Verify Interactive G+ Candidate Report - A,0
+Verify Interactive G+ Report,/solutions/products/product-catalog/view/verify-interactive-g-report/,Yes,No,A,Verify Interactive G+ Report - A,0
+Verify Interactive Process Monitoring,/solutions/products/product-catalog/view/verify-interactive-process-monitoring/,Yes,No,A,Verify Interactive Process Monitoring - A,18
+Virtual Assessment and Development Centers,/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/,Yes,No,P,Virtual Assessment and Development Centers - P,0
+Visual Basic for Applications (New),/solutions/products/product-catalog/view/visual-basic-for-applications-new/,Yes,No,K,Visual Basic for Applications (New) - K,7
+Visual Comparison - UK,/solutions/products/product-catalog/view/visual-comparison-uk/,Yes,No,K,Visual Comparison - UK - K,5
+Visual Comparison - US,/solutions/products/product-catalog/view/visual-comparison-us/,Yes,No,K,Visual Comparison - US - K,5
+VLSI and Embedded Systems (New),/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/,Yes,No,K,VLSI and Embedded Systems (New) - K,9
+What Is The Value - US,/solutions/products/product-catalog/view/what-is-the-value-us/,Yes,No,K,What Is The Value - US - K,5
+Workplace Administration Skills (New),/solutions/products/product-catalog/view/workplace-administration-skills-new/,Yes,No,K,Workplace Administration Skills (New) - K,12
+Workplace Health and Safety (New),/solutions/products/product-catalog/view/workplace-health-and-safety-new/,Yes,No,K,Workplace Health and Safety (New) - K,9
+WriteX - Email Writing (Customer Service) (New),/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/,Yes,No,S,WriteX - Email Writing (Customer Service) (New) - S,15
+WriteX - Email Writing (Managerial) (New),/solutions/products/product-catalog/view/writex-email-writing-managerial-new/,Yes,No,S,WriteX - Email Writing (Managerial) (New) - S,15
+WriteX - Email Writing (Sales) (New),/solutions/products/product-catalog/view/writex-email-writing-sales-new/,Yes,No,"B
+S","WriteX - Email Writing (Sales) (New) - B
+S",15
+Manual Testing (New),/solutions/products/product-catalog/view/manual-testing-new/,Yes,No,K,Manual Testing (New) - K,10
+Verify Interactive Process Monitoring,/solutions/products/product-catalog/view/verify-interactive-process-monitoring/,Yes,No,A,Verify Interactive Process Monitoring - A,18
+Virtual Assessment and Development Centers,/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/,Yes,No,P,Virtual Assessment and Development Centers - P,0
+Visual Basic for Applications (New),/solutions/products/product-catalog/view/visual-basic-for-applications-new/,Yes,No,K,Visual Basic for Applications (New) - K,7
+Visual Comparison - UK,/solutions/products/product-catalog/view/visual-comparison-uk/,Yes,No,K,Visual Comparison - UK - K,5
+Visual Comparison - US,/solutions/products/product-catalog/view/visual-comparison-us/,Yes,No,K,Visual Comparison - US - K,5
+VLSI and Embedded Systems (New),/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/,Yes,No,K,VLSI and Embedded Systems (New) - K,9
+What Is The Value - US,/solutions/products/product-catalog/view/what-is-the-value-us/,Yes,No,K,What Is The Value - US - K,5
+Workplace Administration Skills (New),/solutions/products/product-catalog/view/workplace-administration-skills-new/,Yes,No,K,Workplace Administration Skills (New) - K,12
+Workplace Health and Safety (New),/solutions/products/product-catalog/view/workplace-health-and-safety-new/,Yes,No,K,Workplace Health and Safety (New) - K,9
+WriteX - Email Writing (Customer Service) (New),/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/,Yes,No,S,WriteX - Email Writing (Customer Service) (New) - S,15
+WriteX - Email Writing (Managerial) (New),/solutions/products/product-catalog/view/writex-email-writing-managerial-new/,Yes,No,S,WriteX - Email Writing (Managerial) (New) - S,15
+WriteX - Email Writing (Sales) (New),/solutions/products/product-catalog/view/writex-email-writing-sales-new/,Yes,No,"B
+S","WriteX - Email Writing (Sales) (New) - B
+S",15
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0
+,,,,,,0

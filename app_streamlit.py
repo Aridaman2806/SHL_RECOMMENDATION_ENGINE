@@ -82,7 +82,7 @@ if st.button("Get Recommendations"):
                                 "Adaptive/IRT Support": row[2],
                                 "Test Type": [t.strip() for t in row[3].split(",")],
                                 "Duration": duration,
-                                "URL": f"https://www.shl.com{row[5]}"
+                                "URL": f"{row[5]}"
                             })
                         else:
                             logger.warning(f"Skipping malformed row: {row}")

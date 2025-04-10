@@ -47,18 +47,19 @@ def create_faiss_index(csv_path, index_save_path):
         metadata = {
             "name": row.get("name", ""),
             "url": row.get("url", ""),
-            "remote": row.get("remote", "No"),
+            "remote": row.get("remote", "Yes"),
             "adaptive": row.get("adaptive", "No"),
             "test_type": row.get("test_type", ""),
-            "duration": "30-45 minutes"  # Default duration
+            "duration": row.get("duration", "")  # Default duration
         }
         
         page_content = f"""
         Assessment: {row.get('name', '')}
         Description: {row.get('description', '')}
         Test Type: {row.get('test_type', '')}
-        Remote Testing: {row.get('remote', 'No')}
+        Remote Testing: {row.get('remote', 'Yes')}
         Adaptive Testing: {row.get('adaptive', 'No')}
+        Duration: {row.get('duration', '')}
         """
         
         documents.append(Document(page_content=page_content, metadata=metadata))
@@ -72,6 +73,6 @@ def create_faiss_index(csv_path, index_save_path):
     print(f"FAISS index saved to: {index_save_path}")
 
 if __name__ == "__main__":
-    csv_path = "data/shl_individual_assessments.csv"
+    csv_path = r"data\updated_assessments.csv"
     index_save_path = "data/faiss_index"
     create_faiss_index(csv_path, index_save_path)
