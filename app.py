@@ -93,8 +93,8 @@ def get_recommendations():
         if not recommended_assessments:
             return jsonify({"error": "No valid recommendations found"}), 404
 
-        # Return JSON with formatting
-        return jsonify({"recommended_assessments": recommended_assessments}, ensure_ascii=False, indent=2), 200
+        # Return JSON without conflicting keyword arguments
+        return jsonify({"recommended_assessments": recommended_assessments}), 200
         
     except Exception as e:
         logger.error(f"Error processing request: {str(e)}")
