@@ -64,7 +64,7 @@ class RecommendationEngine:
         - Remote Testing Support (Yes/No)
         - Adaptive/IRT Support (Yes/No)
         - Test Type (with meaning)
-        - Test Duration (in minutes) if it zero return Variable Time
+        - Test Duration (in minutes) 
         - URL (use actual URLs from the metadata)
 
         Use this exact table format:
